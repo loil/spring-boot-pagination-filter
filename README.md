@@ -1,6 +1,6 @@
 # Spring Boot Pagination and Sorting Example
 
-- Tutorial Link: [https://loizenai.com/spring-boot-tutorial-pagination-filtering-and-sorting-example/](Spring Boot Pagination and Sorting Example)
+- Tutorial Link: [https://loizenai.com/spring-boot-pagination-filter/](https://loizenai.com/spring-boot-pagination-filter/)
 
 ![Spring Boot Pagination and Sorting Example](https://loizenai.com/wp-content/uploads/2020/07/SpringBoot-Pagination-Sorting-Examples-Filtering-with-MySQL-database-using-Spring-JPA.png)
 
